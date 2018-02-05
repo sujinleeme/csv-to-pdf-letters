@@ -2,7 +2,7 @@
  
 csv에 저장된 받는 사람과 보내는 사람 이름을 불러와 pdf 편지를 생성하는 프로그램입니다.
 
-* `git colne https://github.com/sujinleeme/csv-to-pdf-letters.git`을 실행해 리퍼지토리를 다운받으세요.
+* `git clone https://github.com/sujinleeme/csv-to-pdf-letters.git`을 실행해 리퍼지토리를 다운받으세요.
 
 * `npm install`을 실행해 노드 패키지를 설치하세요.
  

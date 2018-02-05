@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-csv": "^2.4.1",
     "pdfkit": "^0.8.3"
   }
 }

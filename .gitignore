@@ -54,3 +54,6 @@ fabric.properties
 # misc
 .DS_Store
 .env
+
+# node install directory
+node_modules
